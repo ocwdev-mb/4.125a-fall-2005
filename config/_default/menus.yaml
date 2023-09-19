@@ -1,0 +1,32 @@
+leftnav:
+- identifier: 7cf27d73-c2dd-eebb-4dd3-81257661b00f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 12e2967a-1e7b-1773-9a07-a655d67607d9
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: d5a8a449-b1f4-b2de-5fdc-cb3990215058
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: 208f6e88-a0cc-4592-832f-e3566d1ecc4d
+  name: Projects
+  pageRef: /pages/projects/
+  weight: 40
+- identifier: 0d78af57-d4a5-e3fe-941f-443cf19e1d7e
+  name: Ricardo Davila
+  pageRef: /pages/projects/ricardo-davila
+  parent: 208f6e88-a0cc-4592-832f-e3566d1ecc4d
+  weight: 10
+- identifier: 6ee1ca07-072f-8a7f-5815-1333a87a1cbc
+  name: Jenna Fizel
+  pageRef: /pages/projects/jenna-fizel
+  parent: 208f6e88-a0cc-4592-832f-e3566d1ecc4d
+  weight: 20
+- identifier: 29c7d6cc-ad5b-72a9-1a47-4b869e37c707
+  name: Timothy Koch
+  pageRef: /pages/projects/timothy-koch
+  parent: 208f6e88-a0cc-4592-832f-e3566d1ecc4d
+  weight: 30
